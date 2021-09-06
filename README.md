@@ -13,3 +13,11 @@
 6.   HMM
 
      
+
+
+
+
+
+涉及到的领域：
+
+1.   实体对齐（entity alignment）
