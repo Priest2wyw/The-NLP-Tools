@@ -4,8 +4,9 @@
 2.   分词
 3.   最小编辑距离
 4.   N-gram 语法
-5.   交叉熵
-6.   HMM
+5.   language model
+6.   交叉熵
+7.   HMM
 
 
 
