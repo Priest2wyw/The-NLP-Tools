@@ -51,7 +51,7 @@ scanner = master_pat.scanner('foo = 42')
 >>> scanner.match()
 ```
 
-要利用这项技术并将其转化为代码，women可以做些清理工作然后轻松将其包含在一个生成器函数中。
+要利用这项技术并将其转化为代码，可以做些清理工作然后轻松将其包含在一个生成器函数中。
 
 ```python
 from collections import namedtuple
