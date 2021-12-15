@@ -72,5 +72,22 @@ for tok in generate_tokens(master_pat,'foo = 42'):
 # Token(type='NUM', value='42')
 ```
 
+```python
 
+```
+
+
+
+## findall
+
+
+
+
+
+```python
+partten = re.compile('(?<=关于)(.+?)(?=(?:[,;.,，。；：:]|根据|招股说明书|显示|请发行人|申报文件|审核问询回复|\d))')# lookahead
+
+partten.findall('关于午饭根据目前情况，我没什么想法,但是关于晚饭，我想吃鱼香肉丝。')
+# ['午饭', '晚饭']
+```
 
