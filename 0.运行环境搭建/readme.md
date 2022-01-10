@@ -6,6 +6,30 @@
 
 
 
+# GitHub上的教程
+
+1.   [ PyCharm 中文指南(Win版)](https://pycharm.iswbm.com/index.html#)
+
+2.   [python-small-examples](https://github.com/jackzhenguo/python-small-examples)
+
+3.   [DjangoBlog](https://github.com/liangliangyy/DjangoBlog)
+
+4.   # 农业知识图谱**[Agriculture_KnowledgeGraph](https://github.com/qq547276542/Agriculture_KnowledgeGraph)**
+
+5.   # 动手学深度学习-torch版[Dive-into-DL-PyTorch](https://github.com/ShusenTang/Dive-into-DL-PyTorch)
+
+6.   # [机器学习理论导引key-book](https://github.com/datawhalechina/key-book)
+
+
+
+
+
+Flask+Docker+JupyterHub
+
+
+
+
+
 # 0. 提升信息检索能力
 
 -   翻墙用 google
