@@ -335,5 +335,3 @@ In [16]: %history -n 1-4
    3: math.cos(2)
    4: print(In)
 ```
-
-#5 
