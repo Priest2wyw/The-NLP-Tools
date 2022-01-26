@@ -47,3 +47,15 @@
 -   MIT press-《The Elements of Statistical Learning》
 -   MIT press-《Pattern Recognition And Machine Learning》
 -   
+
+
+
+基础工具学习：
+
+-   使用 VIM：从配置到练习
+
+-   《sed 与 awk》
+
+-   《[Perl语言编程](https://book.douban.com/subject/1231697/)》
+
+-   《精通正则表达式》
