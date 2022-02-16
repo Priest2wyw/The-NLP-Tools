@@ -257,4 +257,13 @@ vim ~/.zshrc
 # 添加 pfetch 在最后面即可
 ```
 
+## python环境
 
+```zsh
+brew install anaconda
+
+source ~/.bash_profile 
+echo ‘source ~/.bash_profile’ >> ~/.zshrc"
+
+conda --version
+```
