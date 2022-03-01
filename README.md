@@ -46,16 +46,48 @@
 
 -   MIT press-《The Elements of Statistical Learning》
 -   MIT press-《Pattern Recognition And Machine Learning》
--   
 
 
 
-基础工具学习：
 
--   使用 VIM：从配置到练习
+2022年目标：
 
--   《sed 与 awk》
+ -   工具：搭建Vim-sed/awk-python 的工作流
 
--   《[Perl语言编程](https://book.douban.com/subject/1231697/)》
+    1. 熟悉 Git 
+    2. 熟练使用sed/awk
+    3. 精通正则表达式
+    -   《sed 与 awk》
 
--   《精通正则表达式》
+    -   《Pro Git》
+
+    -   《Vim实用技巧（第2版）》(https://book.douban.com/subject/26967597/)
+
+
+    -   《[Perl语言编程](https://book.douban.com/subject/1231697/)》
+
+    -   《精通正则表达式》
+    -   使用 VIM：从配置到练习
+
+-    内功心法：完整搭建 `NLP`的框架。
+    1. 完成 cs224n (http://web.stanford.edu/class/cs224n/)
+    2. 《深度学习进阶》《深度学习入门》《Python数据分析手册》
+
+-    计算机基础：
+
+-    产品思维：
+
+-    商品思维：
+
+ 小项目：
+    1. 英文原版教材解析
+    ```shell
+    input: pdf
+    output:翻译好的单词表
+
+    中间处理：
+        `pdf file`->`OCR`/`pypdf2`-> txt ---(process)---> `word list`
+        
+
+    ```
+
