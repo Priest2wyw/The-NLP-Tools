@@ -55,8 +55,11 @@
  -   工具：搭建Vim-sed/awk-python 的工作流
 
     1. 熟悉 Git 
+
     2. 熟练使用sed/awk
+
     3. 精通正则表达式
+
     -   《sed 与 awk》
 
     -   《Pro Git》
@@ -67,10 +70,13 @@
     -   《[Perl语言编程](https://book.douban.com/subject/1231697/)》
 
     -   《精通正则表达式》
+
     -   使用 VIM：从配置到练习
 
 -    内功心法：完整搭建 `NLP`的框架。
+
     1. 完成 cs224n (http://web.stanford.edu/class/cs224n/)
+
     2. 《深度学习进阶》《深度学习入门》《Python数据分析手册》
 
 -    计算机基础：
@@ -81,8 +87,11 @@
 
  小项目：
     1. 英文原版教材解析
+
+
     ```shell
     input: pdf
+
     output:翻译好的单词表
 
     中间处理：
