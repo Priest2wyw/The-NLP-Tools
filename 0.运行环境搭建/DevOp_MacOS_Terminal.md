@@ -5,6 +5,7 @@
 > 本系列，旨在介绍一个完整的开发环境。争取用最少的力气，从零开始一个开发环境。
 
 ## Homebrew
+
 `Homebrew`是 MacOS 上的软件管理工具，类似 `Linux` 的 `apt-get`，可以说没有`Homebrew`的 MacOS是半个残废的开发工具。
 
 ### 安装
@@ -22,15 +23,15 @@ Homebrew 由于墙的存在,在国内不是那么好安装。了解下 HomebrewC
 
 苹果电脑 常规安装脚本（推荐 完全体 几分钟安装完成）：
 
-/bin/zsh -c "$(curl -fsSL https://gitee.com/cunkai/HomebrewCN/raw/master/Homebrew.sh)"
+`/bin/zsh -c "$(curl -fsSL https://gitee.com/cunkai/HomebrewCN/raw/master/Homebrew.sh)"`
 
 苹果电脑 极速安装脚本（精简版 几秒钟安装完成）：
 
-/bin/zsh -c "$(curl -fsSL https://gitee.com/cunkai/HomebrewCN/raw/master/Homebrew.sh)" speed
+`/bin/zsh -c "$(curl -fsSL https://gitee.com/cunkai/HomebrewCN/raw/master/Homebrew.sh)" speed`
 
 苹果电脑 卸载脚本：
 
-/bin/zsh -c "$(curl -fsSL https://gitee.com/cunkai/HomebrewCN/raw/master/Homebr
+`/bin/zsh -c "$(curl -fsSL https://gitee.com/cunkai/HomebrewCN/raw/master/Homebr`
 
 
 ### 使用
@@ -74,7 +75,7 @@ google-featured-photos
 ==> Running `brew cleanup go`...
 Disable this behaviour by setting HOMEBREW_NO_INSTALL_CLEANUP.
 Hide these hints with HOMEBREW_NO_ENV_HINTS (see `man brew`).
-```
+ ```
 
 ```zsh
  brew install --cask brave-browser
